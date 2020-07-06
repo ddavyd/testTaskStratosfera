@@ -1,0 +1,75 @@
+{
+  "menu": [
+    {
+      "img": "icons/catalogIcons/1.png",
+      "title": "Станки с ЧПУ DIY"
+    },
+    {
+      "img": "icons/catalogIcons/2.png",
+      "title": "Мехатроника"
+    },
+    {
+      "img": "icons/catalogIcons/3.png",
+      "title": "Термическая резка"
+    },
+    {
+      "img": "icons/catalogIcons/4.png",
+      "title": "Наборы ЧПУ"
+    },
+    {
+      "img": "icons/catalogIcons/5.png",
+      "title": "Электроника ЧПУ"
+    },
+    {
+      "img": "icons/catalogIcons/6.png",
+      "title": "Электротехника"
+    },
+    {
+      "img": "icons/catalogIcons/7.png",
+      "title": "Электропривод"
+    },
+    {
+      "img": "icons/catalogIcons/8.png",
+      "title": "Направляющие"
+    },
+    {
+      "img": "icons/catalogIcons/9.png",
+      "title": "Передачи"
+    },
+    {
+      "img": "icons/catalogIcons/10.png",
+      "title": "Механика"
+    },
+    {
+      "img": "icons/catalogIcons/11.png",
+      "title": "Пневматика"
+    },
+    {
+      "img": "icons/catalogIcons/12.png",
+      "title": "Инструмент"
+    },
+    {
+      "img": "icons/catalogIcons/13.png",
+      "title": "Оснастка"
+    },
+    {
+      "img": "icons/catalogIcons/14.png",
+      "title": "Смазка и СОЖ"
+    },
+    {
+      "img": "icons/catalogIcons/15.png",
+      "title": "Софт для ЧПУ"
+    },
+    {
+      "img": "icons/catalogIcons/16.png",
+      "title": "Распродажа"
+    },
+    {
+      "img": "icons/catalogIcons/17.png",
+      "title": "Услуги"
+    }
+  ],
+  "requests": [
+      
+  ]
+}
